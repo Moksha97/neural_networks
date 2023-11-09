@@ -19,3 +19,6 @@ One example on running the code:
 ``python rnn.py --hidden_dim 32 --epochs 10 ``
 ``--train_data training.json --val_data validation.json``
 
+
+Unable to upload Data Embedding file due to size constraint more than 100MB.
+
